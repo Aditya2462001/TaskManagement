@@ -1,4 +1,5 @@
 # TaskManagement
+## Technologies : Spring Boot,JPA,Mysql,ReactJs,ReduxToolkit,RESTAPI
 TaskEasy is a straightforward task management application designed for simplicity and efficiency. It gives users essential features to add, delete, and update tasks effortlessly, ensuring smooth task management.
 ![image](https://github.com/Aditya2462001/TaskManagement/assets/63384884/5ceaed3f-6f9c-4913-b3c6-dc127272bbfd)
 
