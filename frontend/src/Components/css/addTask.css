@@ -1,0 +1,8 @@
+.add-task-container{
+    box-shadow:2px 1px 1px rgba(119, 118, 118, 0.2);
+    border: 1px solid rgba(61, 61, 61, 0.2);
+    border-radius: 5px;
+    position: sticky;
+    top: 10px;
+    height: 350px;
+    }
